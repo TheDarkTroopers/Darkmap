@@ -6,10 +6,20 @@ Herramienta para escanear puertos abiertos de alguna direccion IP.
 ## Kali Linux and Parrot Security
 Step 1. sudo su
 
-step 2. git clone https://github.com/D3dSecX/Darkmap
+Step 2. git clone https://github.com/D3dSecX/Darkmap
 
-step 3. cd Darkmap/
+Step 3. cd Darkmap/
 
-step 4. install.sh
+Step 4. bash install.sh
 
-step 5. python3 Darkmap.py
+Step 5. python3 Darkmap.py
+
+## Termux
+
+Step 1. git clone https://github.com/D3dSecX/Darkmap
+
+Step 2. cd Darkmap/
+
+Step 3. bash termux.sh
+
+Step 4. python3 Darkmap.py
