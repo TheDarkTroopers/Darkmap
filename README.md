@@ -1,7 +1,7 @@
 # Darkmap
 Herramienta para escanear puertos abiertos de alguna direccion IP.
 
-![https://github.com/TheDarkTroopers/Darkmap/blob/main/Screenshot%20from%202023-01-14%2006-18-18.png]
+[![Screenshot-from-2023-01-14-06-18-18.png](https://i.postimg.cc/FK7wK8vH/Screenshot-from-2023-01-14-06-18-18.png)](https://postimg.cc/B8fmYhtr)
 
 # Instalación
 
