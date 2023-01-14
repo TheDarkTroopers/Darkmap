@@ -1,6 +1,8 @@
 # Darkmap
 Herramienta para escanear puertos abiertos de alguna direccion IP.
 
+![https://github.com/TheDarkTroopers/Darkmap/blob/main/Screenshot%20from%202023-01-14%2006-18-18.png]
+
 # Instalación
 
 ## Kali Linux and Parrot Security
